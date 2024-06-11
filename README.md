@@ -61,4 +61,4 @@ and you're welcome to give it a shot. Please review the installation page [here]
 
 Please take time to read the [HashiCorp Community Guidelines](https://www.hashicorp.com/community-guidelines) and the [Vagrant Contributing Guide](https://github.com/hashicorp/vagrant/blob/main/.github/CONTRIBUTING.md).
 
-Then you're good to go!
+Then you're good to go!!
